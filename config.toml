@@ -3,15 +3,15 @@ languageCode = "pt-br"
 title = "@NathPaiva"
 theme = "nath-theme"
 
-
-[[menu.main]]
-    name = "Nath Paiva"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "about"
-    url = "/about/"
-[[menu.main]]
-    name = "oiiiie"
-    pre = "<i class='fa fa-road'></i>"
-    weight = -100
-    url = "/getting-started/"
+[menu]
+    [[menu.main]]
+        name = "About"
+        pre = "<i class='fa fa-user fa-fw'></i>"
+        weight = 0
+        identifier = "about"
+        url = "/about/"
+    [[menu.main]]
+        name = "Getting started"
+        pre = "<i class='fa fa-road'></i>"
+        weight = 1
+        url = "/getting-started/"
