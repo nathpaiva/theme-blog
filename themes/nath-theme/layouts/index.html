@@ -1,11 +1,6 @@
 {{ partial "header.html" . }}
+<main>
+    <p>aqui dentro da index</p>
+</main>
 
-<p>aqui dentro da index</p>
-
-<ul>
-    {{ range .Site.Menus.main }}
-    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-    {{ end }}
-</ul>
-
-<br> {{ partial "footer.html" . }}
+{{ partial "footer.html" . }}
