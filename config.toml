@@ -11,7 +11,8 @@ theme = "nath-theme"
         identifier = "about"
         url = "/about/"
     [[menu.main]]
-        name = "Getting started"
+        name = "Options Markdown"
         pre = "<i class='fa fa-road'></i>"
         weight = 1
-        url = "/getting-started/"
+        identifier = "markdown"
+        url = "/options-markdown/"
