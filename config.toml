@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://nathpaiva.github.io/gohugo"
 languageCode = "pt-br"
 title = "@NathPaiva"
 theme = "nath-theme"
