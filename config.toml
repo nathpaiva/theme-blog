@@ -1,4 +1,9 @@
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
 baseurl = "http://nathpaiva.github.io/gohugo"
+canonifyurls = true
+
 languageCode = "pt-br"
 title = "@NathPaiva"
 theme = "nath-theme"
