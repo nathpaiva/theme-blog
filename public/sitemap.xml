@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://nathpaiva.github.io/gohugo/</loc>
+    <loc>/</loc>
     <lastmod>2016-08-04T23:16:49-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nathpaiva.github.io/gohugo/options-markdown/</loc>
+    <loc>/options-markdown/</loc>
     <lastmod>2016-08-04T23:16:49-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nathpaiva.github.io/gohugo/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-08-04T20:41:42-03:00</lastmod>
   </url>
   
