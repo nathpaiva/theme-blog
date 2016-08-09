@@ -1,0 +1,11 @@
+<header>
+    <h1><a href="{{ .Site.BaseURL }}">@nathpaiva</a></h1>
+</header>
+
+<nav>
+    <ul>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+</nav>
