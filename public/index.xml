@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>@NathPaiva</title>
+    <link>http://nathpaiva.github.io/gohugo/</link>
+    <description>Recent content on @NathPaiva</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
     <lastBuildDate>Thu, 04 Aug 2016 23:16:49 -0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://nathpaiva.github.io/gohugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Markdown Options</title>
-      <link>/options-markdown/</link>
+      <link>http://nathpaiva.github.io/gohugo/options-markdown/</link>
       <pubDate>Thu, 04 Aug 2016 23:16:49 -0300</pubDate>
       
-      <guid>/options-markdown/</guid>
+      <guid>http://nathpaiva.github.io/gohugo/options-markdown/</guid>
       <description>
 
 &lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;
@@ -213,10 +214,10 @@ alt=&#34;IMAGE ALT TEXT HERE&#34; width=&#34;240&#34; height=&#34;180&#34; borde
     
     <item>
       <title>About me - NathPaiva</title>
-      <link>/about/</link>
+      <link>http://nathpaiva.github.io/gohugo/about/</link>
       <pubDate>Thu, 04 Aug 2016 20:41:42 -0300</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://nathpaiva.github.io/gohugo/about/</guid>
       <description>
 
 &lt;h1 id=&#34;nath-paiva&#34;&gt;Nath Paiva&lt;/h1&gt;

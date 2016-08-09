@@ -1,9 +1,4 @@
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-[indexes]
-  category = "categories"
-baseurl = "http://nathpaiva.github.io/gohugo"
+baseurl = "http://nathpaiva.github.io/gohugo/"
 title = "@NathPaiva"
 canonifyurls = true
 
