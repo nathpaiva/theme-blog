@@ -1,12 +1,13 @@
+contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
 baseurl = "http://nathpaiva.github.io/gohugo"
+title = "@NathPaiva"
 canonifyurls = true
+theme = "nath-theme"
 
 languageCode = "pt-br"
-title = "@NathPaiva"
-theme = "nath-theme"
 
 [menu]
     [[menu.main]]
@@ -21,3 +22,9 @@ theme = "nath-theme"
         weight = 1
         identifier = "markdown"
         url = "/options-markdown/"
+    [[menu.main]]
+        name = "Contact"
+        pre = "<i class='fa fa-road'></i>"
+        weight = 1
+        identifier = "contact"
+        url = "/contact/"
