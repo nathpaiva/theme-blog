@@ -1,11 +1,11 @@
 contentdir = "content"
+layoutdir = "layouts"
 publishdir = "public"
 baseurl = "http://nathpaiva.github.io/gohugo/"
 title = "@NathPaiva"
 canonifyurls = true
 
 languageCode = "pt-br"
-theme = "nath-theme"
 
 [menu]
     [[menu.main]]
