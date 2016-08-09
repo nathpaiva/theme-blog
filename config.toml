@@ -1,3 +1,5 @@
+contentdir = "content"
+publishdir = "public"
 baseurl = "http://nathpaiva.github.io/gohugo/"
 title = "@NathPaiva"
 canonifyurls = true
