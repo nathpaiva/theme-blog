@@ -1,0 +1,22 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "http://nathpaiva.github.io/gohugo/"
+title = "@NathPaiva"
+canonifyurls = true
+
+languageCode = "pt-br"
+
+[menu]
+    [[menu.main]]
+        name = "About"
+        pre = "<i class='fa fa-user fa-fw'></i>"
+        weight = 0
+        identifier = "about"
+        url = "/about/"
+    [[menu.main]]
+        name = "Options Markdown"
+        pre = "<i class='fa fa-road'></i>"
+        weight = 1
+        identifier = "markdown"
+        url = "/options-markdown/"
